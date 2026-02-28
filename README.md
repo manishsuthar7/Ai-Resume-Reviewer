@@ -40,7 +40,7 @@ Follow these instructions to set up the project locally on your machine.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/ai-resume-reviewer.git
+   git clone [https://github.com/manishsuthar7/ai-resume-reviewer.git](https://github.com/manishsuthar7/Ai-Resume-Reviewer.git)
    cd ai-resume-reviewer
    ```
 
@@ -106,4 +106,4 @@ Feel free to check the [issues page](https://github.com/your-username/ai-resume-
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the License - see the [LICENSE](LICENSE) file for details.
